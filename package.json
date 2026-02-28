@@ -1,0 +1,15 @@
+{
+  "name": "agent-benchmark-target",
+  "version": "1.0.0",
+  "description": "A dummy repo for testing our AI agent.",
+  "author": "John Doe",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
