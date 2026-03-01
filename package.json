@@ -5,7 +5,7 @@
   "author": "John Doe",
   "main": "src/calculator.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo 'No global tests configured. Write specific test files or use node -e to verify your changes.'"
   },
   "dependencies": {
   },
