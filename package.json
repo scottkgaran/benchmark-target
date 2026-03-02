@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "description": "A dummy repo for testing our AI agent.",
   "author": "John Doe",
-  "main": "src/calculator.js",
+  "type": "module",
+  "main": "src/calculator.ts",
   "scripts": {
     "test": "echo 'No global tests configured. Write specific test files or use node -e to verify your changes.'"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "jest": "^29.0.0"
+    "typescript": "^5.4.0",
+    "@types/node": "^24.0.0",
+    "tsx": "^4.7.1"
   }
 }
