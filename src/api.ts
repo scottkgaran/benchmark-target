@@ -1,4 +1,4 @@
-import { formatUser } from './formatter';
+import { formatUser } from './formatter.js';
 
 export function getDisplayNames(): string[] {
   const mockUsers = [
