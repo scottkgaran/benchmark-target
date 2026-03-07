@@ -1,0 +1,11 @@
+{
+  "app": {
+    "name": "Calculator API",
+    "version": "1.0.0"
+  },
+  "settings": {
+    "timeout": 30000,
+    "retry": 3,
+    "debug": false
+  }
+}
